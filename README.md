@@ -112,9 +112,10 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```plaintext
-├── HW1_v2.py            # Main Python file for the project
-├── README.md            # Project documentation (this file)
-└── requirements.txt     # List of dependencies
+├── HW1_v2.py                          # Main Python file for the project
+├── README.md                          # Project documentation (this file)
+├── HW1-1 prompt history.pdf           # Summary of prompt history
+└── requirements.txt                   # List of dependencies
 ```
 
 ## Author
